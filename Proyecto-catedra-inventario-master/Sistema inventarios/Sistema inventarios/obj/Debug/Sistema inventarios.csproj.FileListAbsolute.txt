@@ -1,0 +1,17 @@
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\bin\Debug\Sistema inventarios.exe.config
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\bin\Debug\Sistema inventarios.exe
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\bin\Debug\Sistema inventarios.pdb
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema inventarios.csprojResolveAssemblyReference.cache
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema_inventarios.Busqueda.resources
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema_inventarios.Editar.resources
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema_inventarios.Login.resources
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema_inventarios.IngresoActivos.resources
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema_inventarios.Menu.resources
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema_inventarios.Properties.Resources.resources
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema_inventarios.RegistrosTotales.resources
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema_inventarios.Retiro_de_Activos.resources
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema_inventarios.Traslado.resources
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema inventarios.csproj.GenerateResource.Cache
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema inventarios.exe
+C:\Users\josu_\Desktop\Proyecto-catedra-inventario-master\Sistema inventarios\Sistema inventarios\obj\Debug\Sistema inventarios.pdb
